@@ -1,0 +1,19 @@
+GET https://api.bilibili.com/x/garb/user/asset?access_key=cb545d4d4e4e7f5831f5a50a6945f812&appkey=1d8b6e7d45233436&csrf=fa49c8f983f23fd622f89fd1cd4cc54f&disable_rcmd=0&item_id=46451&part=suit&statistics=%7B%22appId%22%3A1%2C%22platform%22%3A3%2C%22version%22%3A%227.14.0%22%2C%22abtest%22%3A%22%22%7D&ts=1673851079&sign=ca75b38db5a5def98854827908693916 HTTP/1.1
+Host: api.bilibili.com
+Connection: keep-alive
+native_api_from: h5
+Cookie: SESSDATA=aa68935f%2C1689403022%2Ccc0a0b12; bili_jct=fa49c8f983f23fd622f89fd1cd4cc54f; DedeUserID=3493106894768595; DedeUserID__ckMd5=110192921d353a66; sid=njjixtrq; Buvid=XX57096569BE10B097E4EFB36850197D6460A
+buvid: XX57096569BE10B097E4EFB36850197D6460A
+Accept: application/json, text/plain, */*
+Referer: https://www.bilibili.com/h5/mall/suit/detail?id=46451&navhide=1&f_source=shop&from=feed.card&from_id=
+Content-Type: application/json
+env: prod
+APP-KEY: android64
+User-Agent: Mozilla/5.0 (Linux; Android 12; Mi 10 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.128 Mobile Safari/537.36 os/android model/Mi 10 Pro build/7140300 osVer/12 sdkInt/31 network/2 BiliApp/7140300 mobi_app/android channel/xiaomi Buvid/XX57096569BE10B097E4EFB36850197D6460A sessionID/444c646c innerVer/7140310 c_locale/zh_CN s_locale/zh_CN disable_rcmd/0 7.14.0 os/android model/Mi 10 Pro mobi_app/android build/7140300 channel/alifenfa innerVer/7140310 osVer/12 network/2
+x-bili-trace-id: 5b6662bf4bf39901f5cb0a52fc63c4f0:f5cb0a52fc63c4f0:0:0
+x-bili-aurora-eid: UlAIRVAEAFkOWE1XWVEIQw==
+x-bili-mid: 3493106894768595
+x-bili-aurora-zone: 
+bili-http-engine: cronet
+Accept-Encoding: gzip, deflate, br
+

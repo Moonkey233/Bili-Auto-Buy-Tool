@@ -1,0 +1,80 @@
+{
+    "code": 0,
+    "message": "0",
+    "ttl": 1,
+    "data": {
+        
+        "space_bg": {
+            "part_total": 99,
+            "fan_suit_total": 0,
+            "base_suit_total": 0,
+            "trial_suit_total": 0,
+            "list": [
+                {
+                    "item_id": 4661,
+                    "is_diy": 0,
+                    "state": "active",
+                    "image_preview": "http://i0.hdslb.com/bfs/garb/item/1c9b890b93ed6cb76830c68b2d4ef6418f5fef31.jpg",
+                    "image_avatar": ""
+                },
+                {
+                    "item_id": 32886,
+                    "is_diy": 0,
+                    "state": "active",
+                    "image_preview": "http://i0.hdslb.com/bfs/garb/item/830dc34159716d3b11e5e70f1a7227ecbc70f788.jpg",
+                    "image_avatar": ""
+                },
+                {
+                    "item_id": 35604,
+                    "is_diy": 0,
+                    "state": "active",
+                    "image_preview": "http://i0.hdslb.com/bfs/garb/item/4dc935ff5aad1eea288aafa2b780c5f41594784c.jpg",
+                    "image_avatar": ""
+                },
+                {
+                    "item_id": 37936,
+                    "is_diy": 0,
+                    "state": "active",
+                    "image_preview": "http://i0.hdslb.com/bfs/garb/item/654698c6b45e023e038ed488ee5c08dc7915b425.jpg",
+                    "image_avatar": ""
+                }
+            ]
+        },
+        "suit": {
+            "part_total": 0,
+            "fan_suit_total": 99,
+            "base_suit_total": 1,
+            "trial_suit_total": 0,
+            "list": [
+                {
+                    "item_id": 4664,
+                    "is_diy": 0,
+                    "state": "active",
+                    "image_preview": "http://i0.hdslb.com/bfs/garb/item/6895389b4c076c3b10cba1f57887c39f8cd3322d.jpg",
+                    "image_avatar": ""
+                },
+                {
+                    "item_id": 32891,
+                    "is_diy": 0,
+                    "state": "active",
+                    "image_preview": "http://i0.hdslb.com/bfs/garb/item/61f16829e6aed1ae5c31f34f7d76157bcbeda1ed.jpg",
+                    "image_avatar": ""
+                },
+                {
+                    "item_id": 35609,
+                    "is_diy": 0,
+                    "state": "active",
+                    "image_preview": "http://i0.hdslb.com/bfs/garb/item/6999beb82174110b412e7c99ff6a40760ec78784.jpg",
+                    "image_avatar": ""
+                },
+                {
+                    "item_id": 37941,
+                    "is_diy": 0,
+                    "state": "active",
+                    "image_preview": "http://i0.hdslb.com/bfs/garb/item/800f8fb7d8287baa504ff7731b8427dbfca4110f.jpg",
+                    "image_avatar": ""
+                }
+            ]
+        }
+    }
+}
